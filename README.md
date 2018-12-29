@@ -12,3 +12,4 @@
 4. 原先模组的移动显示位置的按键不再有效，其他按键依然有效
 
 ## 相关截图
+<img alt="Screenshot.png" src="https://github.com/ZekerZhayard/Battys-UI-Exp/blob/master/Screenshot.png?raw=true">
