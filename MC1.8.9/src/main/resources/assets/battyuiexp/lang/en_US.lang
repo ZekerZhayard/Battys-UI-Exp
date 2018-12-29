@@ -1,0 +1,16 @@
+Coords.shade=Enable Shade
+Coords.chars.Increase=Increase Character
+Coords.chars.Decrease=Decrease Character
+Coords.colours.TitleText=Title Text Colour
+Coords.colours.PosCoordText=Positive Coordinate Text Colour
+Coords.colours.NegCoordText=Negative Coordinate Text Colour
+Coords.colours.PosChunkText=Positive Chunk Text Colour
+Coords.colours.NegChunkText=Negative Chunk Text Colour
+Coords.colours.CompassText=Compass Text Colour
+Coords.colours.BiomeText=Biome Text Colour
+Coords.copy.tpFormat=Enable Copying with tpFormat
+Timer.shade=Enable Shade
+Timer.colours.Stopped=Stopped Timer Colour
+Timer.colours.Running=Running Timer Colour
+FPS.shade=Enable Shade
+FPS.colours.Text=FPS Text Colour

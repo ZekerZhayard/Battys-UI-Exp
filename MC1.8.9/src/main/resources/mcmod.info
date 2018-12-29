@@ -1,0 +1,16 @@
+[
+{
+  "modid": "batty-ui-exp",
+  "name": "Batty UI Exp",
+  "description": "The expansion mod for Batty's Coordinates PLUS Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ZekerZhayard/Battys-UI-Exp",
+  "updateUrl": "https://github.com/ZekerZhayard/Battys-UI-Exp",
+  "authorList": ["Zeker Zhayard"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
