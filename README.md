@@ -1,6 +1,7 @@
 # Battys-UI-Exp
 让 Batty's Coordinates PLUS! Mod 交互更加友好的模组  
-需要和 Batty's Coordinates PLUS! Mod 一起安装
+需要和 Batty's Coordinates PLUS! Mod 一起安装  
+https://github.com/BatHeart/batty-ui-forge
 
 ## 使用方法
 1. 安装 MinecraftForge
