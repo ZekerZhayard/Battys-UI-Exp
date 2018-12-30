@@ -22,10 +22,7 @@ public class BattyUIExpCommand extends CommandBase {
 
     @Override
     public List<String> addTabCompletionOptions(ICommandSender sender, String[] args, BlockPos pos) {
-        if (args.length == 1) {
-            return CommandBase.getListOfStringsMatchingLastWord(args, "coords", "fps", "timer");
-        }
-        return null;
+        return args.length == 1 ? CommandBase.getListOfStringsMatchingLastWord(args, "coords", "fps", "timer") : null;
     }
 
     @Override
